@@ -1,5 +1,5 @@
 # Tetrahedron Splatting for 3D Generation
-### [[Project page]](https://fudan-zvg.github.io/tet-splatting) | [[Paper]](https://arxiv.org/abs/2406.01579)
+### [[Project page]](https://logosintelligencelab.github.io/tet-splatting) | [[Paper]](https://arxiv.org/abs/2406.01579)
 
 > [**Tetrahedron Splatting for 3D Generation**](https://arxiv.org/abs/2406.01579),            
 > [Chun Gu](https://sulvxiangxin.github.io/), Zeyu Yang, Zijie Pan, [Xiatian Zhu](https://surrey-uplab.github.io/), [Li Zhang](https://lzrobots.github.io)  
@@ -16,7 +16,7 @@
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/fudan-zvg/tet-splatting.git --recursive
+git clone https://github.com/LogosIntelligenceLab/tet-splatting.git --recursive
 conda create -n tetsplatting python=3.9
 conda activate tetsplatting
 
